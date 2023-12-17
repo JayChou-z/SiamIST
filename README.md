@@ -4,13 +4,22 @@ SiamIST: Infrared small target tracking based on an improved SiamRPN
 <div align=center><img width="400" height="300" src="https://github.com/JayChou-z/image_container/blob/main/Precision.png"/><img width="400" height="300" src="https://github.com/JayChou-z/image_container/blob/main/success.png"/></div>
 
 
-### 2.Environment
+## 2.Environment
 - python=3.9  
 - torch=1.12.1  
 - cuda=11.3  
 - torchvision=0.13.1
+
+
+## 3.Datasets
+* [train dataset](https://www.scidb.cn/en/detail?dataSetId=808025946870251520&version=V2)
+* [test dataset](https://www.scidb.cn/en/detail?dataSetId=720626420933459968&version=V1)
+## model
+Download the pretrained model:
+[model](https://pan.baidu.com/s/1WDNzGo_Zo4mlZqzjwUsW7A?pwd=jayz) code: jayz
+
   
-### 3.Citation
+### 4.Citation
 ```
 @article{qian2023siamist,
   title={SiamIST: Infrared small target tracking based on an improved SiamRPN},
@@ -22,10 +31,3 @@ SiamIST: Infrared small target tracking based on an improved SiamRPN
   publisher={Elsevier}
 }
 ```
-
-### 4.Datasets
-* [train dataset](https://www.scidb.cn/en/detail?dataSetId=808025946870251520&version=V2)
-* [test dataset](https://www.scidb.cn/en/detail?dataSetId=720626420933459968&version=V1)
-
-
-
