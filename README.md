@@ -14,12 +14,12 @@ SiamIST: Infrared small target tracking based on an improved SiamRPN
 ## 3.Datasets
 * [train dataset](https://www.scidb.cn/en/detail?dataSetId=808025946870251520&version=V2)
 * [test dataset](https://www.scidb.cn/en/detail?dataSetId=720626420933459968&version=V1)
-## model
+## 4.model
 Download the pretrained model:
 [model](https://pan.baidu.com/s/1WDNzGo_Zo4mlZqzjwUsW7A?pwd=jayz) code: jayz
 
   
-### 4.Citation
+## 5.Citation
 ```
 @article{qian2023siamist,
   title={SiamIST: Infrared small target tracking based on an improved SiamRPN},
