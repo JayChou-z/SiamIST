@@ -12,6 +12,8 @@ SiamIST: Infrared small target tracking based on an improved SiamRPN
 
 
 ## 3.Datasets
+
+Note: The test set we use consists of the last 18 weak and small single-target sequences from the 22 sequences, and the training set is also selected from these single-target video sequences.
 * [train dataset](https://www.scidb.cn/en/detail?dataSetId=808025946870251520&version=V2)
 * [test dataset](https://www.scidb.cn/en/detail?dataSetId=720626420933459968&version=V1)
 ## 4.Model
