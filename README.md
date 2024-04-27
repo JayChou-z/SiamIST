@@ -20,8 +20,13 @@ Note: The test set we use consists of the last 18 weak and small single-target s
 Download our pretrained model:
 [model](https://pan.baidu.com/s/1WDNzGo_Zo4mlZqzjwUsW7A?pwd=jayz) code: jayz
 
-  
-## 5.Citation
+## 5.Results
+We provide tracking results for comparison: In the code directory \siamist\bin\results\22seqs22\SiamRPN.
+
+## 6.Acknowledgement
+The code is implemented based on[SiamRPN](https://github.com/HonglinChu/SiamTrackers/tree/master/SiamRPN/SiamRPN). We would like to express our sincere thanks to the contributors.
+
+## 7.Citation
 ```
 @article{qian2023siamist,
   title={SiamIST: Infrared small target tracking based on an improved SiamRPN},
