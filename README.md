@@ -17,7 +17,7 @@ Note: The test set we use consists of the last 18 weak and small single-target s
 * [train dataset](https://www.scidb.cn/en/detail?dataSetId=808025946870251520&version=V2)
 * [test dataset](https://www.scidb.cn/en/detail?dataSetId=720626420933459968&version=V1)
 ## 4.Model
-Download the pretrained model:
+Download our pretrained model:
 [model](https://pan.baidu.com/s/1WDNzGo_Zo4mlZqzjwUsW7A?pwd=jayz) code: jayz
 
   
